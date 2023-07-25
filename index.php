@@ -10,7 +10,7 @@
       padding: 0;
     }
     .py{
-        background-image: url("hi.jpg");
+        background-image: url("img1.jpg");
         background-size: 100% 100%;
         opacity :1;
         
